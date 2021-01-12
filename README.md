@@ -25,7 +25,7 @@ Or they may be grouped into a specific group, e.g.
 
 'group' => \[
 
-	'key1' => 'value'
+'key1' => 'value'
 	
 ]
 
